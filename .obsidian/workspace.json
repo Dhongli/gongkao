@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "58ad889bbdb462e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e9cf65fad8b1ed2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb0819d69211834b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d08164d971a031d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "判断/图形推理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ad58af661339c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "7068852b1dfad94a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a95d3fcebb2532d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "455f429f8d2c60ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa9536fba5eb7858",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "right": {
+    "id": "f479432163728c75",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcde02b3f696bc9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "773b937c6af518df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "判断/图形推理.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f906d87ee3aea53e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "判断/图形推理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ed36d0320cd21c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "660102a3d68d18de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "判断/图形推理.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d08164d971a031d6",
+  "lastOpenFiles": [
+    "判断/image/图形推理-特殊规律-思维导图.png",
+    "判断/image/图形推理-特殊规律-图形间关系相交于面考点.png",
+    "判断/image/图形推理-特殊规律-图形间关系相交考点.png",
+    "判断/image/图形推理-特殊规律-图形间关系相离考点.png",
+    "判断/image/图形推理-属性规律-思维导图.png",
+    "判断/image/图形推理-属性规律-开闭性-半开闭.png",
+    "判断/image/图形推理-属性规律-开闭性-全开.png",
+    "判断/image/图形推理-属性规律-开闭性-全闭.png",
+    "判断/image/图形推理-属性规律-曲直性-例题.png",
+    "判断/image/图形推理-属性规律-对称性-总结.png",
+    "判断/image/图形推理-属性规律-对称性-考点-轴之间夹角关系.png",
+    "判断/图形推理.md",
+    "判断/image",
+    "判断",
+    "Welcome.md"
+  ]
+}

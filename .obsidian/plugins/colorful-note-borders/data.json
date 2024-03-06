@@ -1,0 +1,28 @@
+{
+  "colorRules": [
+    {
+      "id": "frontmatter-public-499749",
+      "value": "category: public",
+      "type": "frontmatter",
+      "color": "#499749"
+    },
+    {
+      "id": "inbox-ffb300",
+      "value": "Inbox",
+      "type": "folder",
+      "color": "#ffb300"
+    },
+    {
+      "id": "frontmatter-private-c44545",
+      "value": "category: private",
+      "type": "frontmatter",
+      "color": "#c44545"
+    },
+    {
+      "id": "1702084843515",
+      "value": "",
+      "type": "folder",
+      "color": "#000000"
+    }
+  ]
+}
