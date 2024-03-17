@@ -62,9 +62,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d07168ca643c951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "言语/01、中心理解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3b857e9baef5d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "言语/02、细节判断.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1225bb288175cd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "言语/03、语句表达.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8ed1f3a110786e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "言语/01、中心理解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -114,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 438.5,
+    "collapsed": true
   },
   "right": {
     "id": "f479432163728c75",
@@ -130,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "判断/04、逻辑判断.md",
+                "file": "言语/01、中心理解.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "判断/04、逻辑判断.md",
+                "file": "言语/01、中心理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "判断/04、逻辑判断.md"
+                "file": "言语/01、中心理解.md"
               }
             }
           }
@@ -179,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,21 +241,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c45181e567ee828b",
+  "active": "f8ed1f3a110786e8",
   "lastOpenFiles": [
-    "判断/image/逻辑判断-翻译推理-思维导图.png",
-    "判断/image/逻辑判断-翻译推理-推理形式-例题2.png",
-    "判断/image/逻辑判断-翻译推理-推理形式-例题.png",
-    "判断/image/逻辑判断-翻译推理总结23.png",
-    "判断/image/逻辑判断-翻译推理总结二.png",
-    "判断/image/逻辑判断-翻译推理-推理规则-德摩根-例题2-1.png",
-    "判断/image/逻辑判断-翻译推理-推理规则-德摩根-例题2.png",
-    "判断/image/逻辑判断-翻译推理-推理规则-德摩根-例题.png",
-    "判断/image/逻辑判断-翻译推理-推理规则-德摩根.png",
-    "判断/image/逻辑判断-翻译推理-或推理-例题22.png",
-    "判断/image/逻辑判断-翻译推理-或推理-例题2.png",
-    "判断/03、定义判断.md",
+    "言语/image/中心理解-因果关系-例题-4.png",
+    "言语/image/中心理解-因果关系-例题-3.png",
+    "言语/image/中心理解-因果关系-例题-2.png",
+    "言语/image/中心理解-因果关系-例题-1.png",
+    "言语/image/中心理解-转折关系-思维导图.png",
+    "言语/image/中心理解-转折关系-例题-3-1.png",
+    "言语/image/中心理解-转折关系-例题-3.png",
+    "言语/image/中心理解-转折关系-例题-2.png",
+    "言语/image/中心理解-转折关系-例题-1-1.png",
+    "言语/image/中心理解-转折关系-例题-1.png",
+    "言语/image/中心理解-转折关系-例题.png",
+    "言语/image",
+    "言语/04、逻辑填空.md",
+    "言语/03、语句表达.md",
+    "言语/02、细节判断.md",
+    "言语/01、中心理解.md",
+    "言语",
     "判断/04、逻辑判断.md",
+    "判断/03、定义判断.md",
     "判断/02、类比推理.md",
     "判断/01、图形推理.md",
     "判断/image",
