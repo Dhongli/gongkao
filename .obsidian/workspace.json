@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "言语/01、中心理解.md",
+                "file": "言语/03、语句表达.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5,
-    "collapsed": true
+    "width": 438.5
   },
   "right": {
     "id": "f479432163728c75",
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "言语/01、中心理解.md",
+                "file": "言语/03、语句表达.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "言语/01、中心理解.md",
+                "file": "言语/03、语句表达.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "言语/01、中心理解.md"
+                "file": "言语/03、语句表达.md"
               }
             }
           }
@@ -242,26 +241,26 @@
   },
   "active": "f8ed1f3a110786e8",
   "lastOpenFiles": [
-    "言语/image/中心理解-重点词语-行文脉络思维导图.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-分总-例题3.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-分总-例题2.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-分总-例题.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-例题6.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-例题5.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-例题4.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-例题3.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-例题2-1.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-例题2.png",
-    "言语/image/中心理解-重点词语-中心句分述句特点-例题1.png",
-    "言语/01、中心理解.pdf",
+    "言语/image/语句表达-语句填空题总结.png",
+    "言语/image/语句表达-横线题-填空在中间-例题3.png",
+    "言语/image/语句表达-横线题-填空在中间-例题2.png",
+    "言语/image/语句表达-横线题-填空在中间-例题1.png",
+    "言语/image/语句表达-横线题-填空在开头-例题2.png",
+    "言语/image/语句表达-横线题-填空在开头-例题1.png",
+    "言语/image/语句表达-横线题-例题3.png",
+    "言语/image/语句表达-横线题-例题2.png",
+    "言语/image/Pasted image 20240321221146.png",
+    "言语/image/语句表达-横线题-例题1.png",
+    "言语/02、细节判断.md",
+    "言语/image/细节判断-总结.png",
     "言语/01、中心理解.md",
+    "言语/01、中心理解.pdf",
     "判断/04、逻辑判断.pdf",
     "判断/04、逻辑判断_tmp.html",
     "言语/01、中心理解.html",
     "言语/image",
     "言语/04、逻辑填空.md",
     "言语/03、语句表达.md",
-    "言语/02、细节判断.md",
     "言语",
     "判断/04、逻辑判断.md",
     "判断/03、定义判断.md",
