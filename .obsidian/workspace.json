@@ -110,9 +110,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53b7fa5493ef7704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "申论/申论1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "言语/04、逻辑填空.md",
+                "file": "申论/申论1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "言语/04、逻辑填空.md",
+                "file": "申论/申论1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "言语/04、逻辑填空.md"
+                "file": "申论/申论1.md"
               }
             }
           }
@@ -239,20 +251,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8ed1f3a110786e8",
+  "active": "53b7fa5493ef7704",
   "lastOpenFiles": [
+    "申论/image/申论1-例题2答案-1.png",
+    "申论/image/申论1-例题2答案.png",
+    "申论/申论基础.md",
+    "申论/申论1.md",
+    "申论/image/申论1-例题1答案.png",
+    "申论/image/申论基础-问题类题目-总结.png",
+    "申论/image/申论基础-申论答题步骤-总结.png",
+    "申论/image/申论基础-申论答题步骤-答案组织技巧-示例.png",
+    "申论/image/申论基础-总结.png",
+    "申论/image",
+    "言语/04、逻辑填空.md",
+    "申论",
     "言语/image/逻辑填空-语境分析-总结.png",
     "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-6.png",
     "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-5-1.png",
     "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-5.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-4.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-3.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-2.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-1.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-主题词-例题-3.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-主题词-例题-2.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-主题词-例题-1.png",
-    "言语/04、逻辑填空.md",
     "言语/03、语句表达.md",
     "言语/02、细节判断.md",
     "言语/01、中心理解.md",
