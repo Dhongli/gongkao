@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "申论/申论1.md",
+                "file": "申论/申论基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "申论/申论1.md",
+                "file": "申论/申论基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "申论/申论1.md",
+                "file": "申论/申论基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "申论/申论1.md"
+                "file": "申论/申论基础.md"
               }
             }
           }
@@ -253,10 +253,15 @@
   },
   "active": "53b7fa5493ef7704",
   "lastOpenFiles": [
+    "申论/image/申论基础-影响类题目总结.png",
+    "申论/pdf/基础理论-问题类题目.pdf",
+    "申论/申论基础.md",
+    "申论/pdf",
+    "申论/申论1.md",
+    "申论/pdf/基础理论-原因类题目.pdf",
+    "申论/pdf/基础理论-影响类题目.pdf",
     "申论/image/申论1-例题2答案-1.png",
     "申论/image/申论1-例题2答案.png",
-    "申论/申论基础.md",
-    "申论/申论1.md",
     "申论/image/申论1-例题1答案.png",
     "申论/image/申论基础-问题类题目-总结.png",
     "申论/image/申论基础-申论答题步骤-总结.png",
@@ -268,7 +273,6 @@
     "言语/image/逻辑填空-语境分析-总结.png",
     "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-6.png",
     "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-5-1.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-5.png",
     "言语/03、语句表达.md",
     "言语/02、细节判断.md",
     "言语/01、中心理解.md",
@@ -276,14 +280,10 @@
     "判断/04、逻辑判断.pdf",
     "判断/04、逻辑判断_tmp.html",
     "言语/01、中心理解.html",
-    "言语/image",
-    "言语",
     "判断/04、逻辑判断.md",
     "判断/03、定义判断.md",
     "判断/02、类比推理.md",
     "判断/01、图形推理.md",
-    "判断/image",
-    "判断",
     "Welcome.md"
   ]
 }
