@@ -2,5 +2,8 @@
   "attachmentFolderPath": "./image",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false
 }
