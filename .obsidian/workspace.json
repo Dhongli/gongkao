@@ -127,11 +127,9 @@
             "id": "058e36dc6b2d1b3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "申论/申论基础.md",
-                "mode": "source",
-                "source": false
+                "file": "申论/pdf/申论1-理论精讲.pdf"
               }
             }
           }
@@ -202,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "申论/申论基础.md",
+                "file": "申论/pdf/申论1-理论精讲.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "申论/申论基础.md",
+                "file": "申论/pdf/申论1-理论精讲.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "申论/申论基础.md"
+                "file": "申论/pdf/申论1-理论精讲.pdf"
               }
             }
           }
@@ -265,9 +263,10 @@
   },
   "active": "058e36dc6b2d1b3d",
   "lastOpenFiles": [
+    "申论/申论基础.md",
+    "申论/pdf/申论1-理论精讲.pdf",
     "申论/image/申论基础-原因类题目总结.png",
     "申论/pdf/基础理论-原因类题目.pdf",
-    "申论/申论基础.md",
     "申论/image/申论基础-影响类题目总结.png",
     "申论/pdf/基础理论-问题类题目.pdf",
     "申论/pdf",
@@ -284,14 +283,12 @@
     "言语/04、逻辑填空.md",
     "申论",
     "言语/image/逻辑填空-语境分析-总结.png",
-    "言语/image/逻辑填空-语境分析-对应关系-重点词句对应-前呼后应-例题-6.png",
     "言语/03、语句表达.md",
     "言语/02、细节判断.md",
     "言语/01、中心理解.md",
     "言语/01、中心理解.pdf",
     "判断/04、逻辑判断.pdf",
     "判断/04、逻辑判断_tmp.html",
-    "言语/01、中心理解.html",
     "判断/04、逻辑判断.md",
     "判断/03、定义判断.md",
     "判断/02、类比推理.md",
